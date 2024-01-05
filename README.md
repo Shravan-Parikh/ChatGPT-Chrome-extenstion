@@ -1,6 +1,9 @@
+
 # ChatGPT-Chrome-extenstion
  A chatgpt chrom extesntion that sends a prompt , later that prompt can be used for making GPT behave a certain way, prompt engieering.
 
+## Here is the quick view of extenstion
+<img title="extenstions" alt="Alt text" src=""C:\Users\parik\OneDrive\Pictures\Screenshots\Screenshot 2024-01-05 184821.png"">
 The folder structure is as follows:
 
 ```
@@ -71,3 +74,4 @@ These scripts provide a convenient way to build and manage your extension, and c
 
 ## Conclusion
 This boilerplate provides a basic structure for creating a Chrome Extension with Manifest 3. It includes the necessary files and folder structure to get started quickly, and you can customize it as per your needs.
+
