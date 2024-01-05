@@ -3,7 +3,7 @@
  A chatgpt chrom extesntion that sends a prompt , later that prompt can be used for making GPT behave a certain way, prompt engieering.
 
 ## Here is the quick view of extenstion
-<img title="extenstions" alt="Alt text" src=""C:\Users\parik\OneDrive\Pictures\Screenshots\Screenshot 2024-01-05 184821.png"">
+![Alt text](C:\Users\parik\OneDrive\Pictures\Screenshots\Screenshot 2024-01-05 184821.png"a title")
 The folder structure is as follows:
 
 ```
